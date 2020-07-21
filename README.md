@@ -1,9 +1,12 @@
 # Image_processing
-This repository I have created for publishing my work of Image Processing using python and its packages like skimage, opencv and others.
+This repository I have created for publishing my work of Image Processing using python and its packages like Pillow, Scikit-Image, OpenCV and others.
 
 
 1. Image Processing Python packages
-    1. Skimage
+    1. Pillow
+        1. Read and Show
+        2. Some basic operations
+	2. Skimage
         1. Read and Print
         2. Some basic operations
             1. How to convert an image to floating array?
